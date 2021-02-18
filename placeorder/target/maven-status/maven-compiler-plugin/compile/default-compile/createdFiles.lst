@@ -1,0 +1,10 @@
+com\dzone\nagp\example\rest\controller\OrderController.class
+com\dzone\nagp\example\rest\resource\OrderResource.class
+com\dzone\nagp\example\rest\repository\OrderRepository.class
+com\dzone\nagp\example\rest\repository\InMemoryRepository.class
+com\dzone\nagp\example\rest\resource\OrderResourceAssembler.class
+com\dzone\nagp\example\rest\repository\IdGenerator.class
+com\dzone\nagp\example\rest\resource\ResourceAssembler.class
+com\dzone\nagp\example\rest\Application.class
+com\dzone\nagp\example\rest\domain\Order.class
+com\dzone\nagp\example\rest\domain\Identifiable.class
